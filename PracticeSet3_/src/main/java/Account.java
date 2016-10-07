@@ -10,8 +10,6 @@ public class Account {
 		this.id = 0;
 		this.balance = 0;
 		this.annualInterestRate = 0;
-		// TODO remove print line
-		System.out.println(this.dateCreated);
 	}
 
 	/**
